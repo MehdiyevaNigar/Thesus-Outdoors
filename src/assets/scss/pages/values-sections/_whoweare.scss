@@ -1,0 +1,57 @@
+.whoWeAre {
+    width: 100%;
+    padding: 80px 0;
+    .container {
+        .row {
+            flex-direction: column;
+            h2 {
+                text-align: center;
+                color: rgb(18, 48, 38);
+                font-size: 40px;
+                padding-bottom: 30px;
+            }
+            p {
+                text-align: center;
+                opacity: 75%;
+                color: rgb(18, 48, 38);
+                font-size: 16px;
+                width: 57%;
+                margin: 0 auto;
+                line-height: 30px;
+                letter-spacing: 1px;
+                padding-bottom: 15px;
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .whoWeAre {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+@media (max-width: 992px) {
+    .whoWeAre {
+        .container {
+            .row {
+                p {
+                    width: 65%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .whoWeAre {
+        .container {
+            .row {
+                p {
+                    width: 80%;
+                }
+            }
+        }
+    }
+}

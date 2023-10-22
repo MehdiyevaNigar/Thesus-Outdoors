@@ -1,0 +1,53 @@
+.ourValues {
+    width: 100%;
+    padding-bottom: 100px;
+    h2 {
+        text-align: center;
+        color: rgb(18, 48, 38);
+        font-size: 40px;
+        padding-bottom: 80px;
+    }
+    .container {
+        .row {
+            align-items: center;
+            justify-content: center;
+            gap: 40px;
+            .value-card {
+                .value-card-title {
+                    padding-bottom: 20px;
+                    h3 {
+                        color: rgb(18, 48, 38);
+                        font-size: 20px;
+                    }
+                }
+                .value-card-content {
+                    p {
+                        color: rgb(18, 48, 38);
+                        opacity: 75%;
+                        line-height: 30px;
+                        letter-spacing: 1px;
+                        font-size: 17px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .ourValues {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+
+@media (max-width: 992px) {
+    .ourValues {
+        .container {
+            .row {
+                flex-direction: column;
+            }
+        }
+    }
+}

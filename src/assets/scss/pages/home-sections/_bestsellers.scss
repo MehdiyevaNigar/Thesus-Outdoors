@@ -1,0 +1,60 @@
+.bestSellers {
+    width: 100%;
+    background-color: #f3f3f3;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    h2 {
+        text-align: center;
+        padding-bottom: 30px;
+        color: rgb(18, 48, 38);
+        font-size: 40px;
+    }
+    .container {
+        .row {
+            width: 100%;
+            height: 100%;
+            .scarlet {
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .rain {
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .farah {
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .sage {
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 1200px) {
+    .bestSellers {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+@media (max-width: 465px) {
+    .bestSellers {
+        h2 {
+            font-size: 30px;
+        }
+    }
+}

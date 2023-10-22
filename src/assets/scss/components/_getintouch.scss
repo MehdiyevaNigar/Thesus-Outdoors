@@ -1,0 +1,127 @@
+.getInTouch {
+    max-width: 100%;
+    background-color: #f3f3f3;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .container {
+        display: flex;
+        .row {
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            h2 {
+                font-size: 40px;
+                font-weight: 600;
+                text-align: center;
+                color: rgb(18, 48, 38);
+                margin-bottom: 30px;
+            }
+            p {
+                text-align: center;
+                font-weight: 400;
+                color: rgb(18, 48, 38);
+                opacity: 75%;
+                margin-bottom: 40px;
+            }
+            form {
+                .sign-up {
+                    display: flex;
+                    input {
+                        width: 300px;
+                        border-radius: 5px;
+                        padding-left: 16px;
+                        height: 48px;
+                        color: rgb(18, 48, 38);
+                        font-size: 16px;
+                        font-weight: 400;
+                        background-color: #fff;
+                        border: 1px solid #000;
+                        outline: none;
+                    }
+                    button {
+                        background-color: rgb(18, 48, 38);
+                        color: #fff;
+                        font-weight: 700;
+                        border: none;
+                        font-size: 18px;
+                        cursor: pointer;
+                        padding: 14px 18px;
+                        border-radius: 5px;
+                    }
+                }
+                .error {
+                    padding-top: 10px;
+                    color: red;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .getInTouch {
+        .container {
+            .row {
+                h2 {
+                    font-size: 38px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .getInTouch {
+        height: 500px;
+        .container {
+            padding: 0 20px;
+            h2 {
+                font-size: 30px;
+            }
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .getInTouch {
+        height: 500px;
+        .container {
+            padding: 0 10px;
+            .row {
+                h2 {
+                    font-size: 30px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 465px) {
+    .getInTouch {
+        .container {
+            padding: 0 20px;
+            .row {
+                h2 {
+                    font-size: 30px;
+                }
+                p {
+                    text-align: center;
+                }
+                form {
+                    .sign-up {
+                        display: flex;
+                        input {
+                            width: 200px;
+                        }
+                        button {
+                            font-size: 12px;
+                            padding: 4px 18px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

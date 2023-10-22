@@ -1,0 +1,50 @@
+//Global style
+@import "./base";
+
+//Components
+@import "./components/navbar";
+@import "./components/getintouch";
+@import "./components/footer";
+@import "./components/button";
+@import "./components/productCard";
+@import "./components/checkoutCard";
+@import "./components/hamburger";
+
+//Home Sections
+@import "./pages/home-sections/home-hero";
+@import "./pages/home-sections/be-outside";
+@import "./pages/home-sections/lookbook";
+@import "./pages/home-sections/bestsellers";
+@import "./pages/home-sections/footwear";
+@import "./pages/home-sections/trythemout";
+@import "./pages/home-sections/home-accordion";
+@import "./pages/home-sections/claire";
+@import "./pages/home-sections/inthepress";
+@import "./pages/home-sections/join-us";
+
+//Login Section
+@import "./pages/login-section/loginpage";
+
+//Values Sections
+@import "./pages/values-sections/values-hero";
+@import "./pages/values-sections/whoweare";
+@import "./pages/values-sections/whereweare";
+@import "./pages/values-sections/our-values";
+@import "./pages/values-sections/tree-hug";
+@import "./pages/values-sections/transparency";
+@import "./pages/values-sections/diversity";
+@import "./pages/values-sections/living-wage";
+@import "./pages/values-sections/production";
+@import "./pages/values-sections/climate-positive";
+@import "./pages/values-sections/diverting-waste";
+
+//Lookbook Sections
+@import "./pages/lookbook-sections/lookbook2";
+
+//Pages
+@import "./pages/shopAll";
+@import "./pages/newIn";
+@import "./pages/productDetails";
+@import "./pages/cart";
+@import "./pages/checkoutPage";
+@import "./pages/notFound";

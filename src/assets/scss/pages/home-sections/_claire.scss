@@ -1,0 +1,106 @@
+.claire {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    width: 100%;
+    .container {
+        .row {
+            .claire-content {
+                width: 50%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: 72px;
+                h1 {
+                    color: rgb(18, 48, 38);
+                    font-size: 70px;
+                    font-weight: 700;
+                }
+                em {
+                    color: rgb(18, 48, 38);
+                    opacity: 70%;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 30px;
+                    text-align: center;
+                    padding-bottom: 20px;
+                }
+                h5 {
+                    font-size: 12px;
+                    font-weight: 400;
+                    color: rgb(18, 48, 38);
+                    opacity: 70%;
+                    letter-spacing: 1px;
+                }
+            }
+            .claire-media {
+                width: 50%;
+                height: 650px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .claire {
+        .container {
+            padding: 0 30px;
+            .claire-media {
+                height: 600px;
+            }
+        }
+    }
+}
+
+@media (max-width: 992px) {
+    .claire {
+        .container {
+            .row {
+                .claire-media {
+                    height: 500px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .claire {
+        .container {
+            .row {
+                flex-direction: column;
+                .claire-content {
+                    flex: 1;
+                    order: 2;
+                    width: 100%;
+                }
+                .claire-media {
+                    flex: 1;
+                    order: 1;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 465px) {
+    .claire {
+        .container {
+            .row {
+                .claire-content {
+                    padding: 0;
+                    width: 100%;
+                    em {
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+}

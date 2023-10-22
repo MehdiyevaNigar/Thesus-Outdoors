@@ -1,0 +1,86 @@
+.livingWage {
+    width: 100%;
+    padding-bottom: 80px;
+    .container {
+        .row {
+            .livingWage-content {
+                padding-right: 80px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                width: 50%;
+                h2 {
+                    font-size: 40px;
+                    color: rgb(18, 48, 38);
+                    padding-bottom: 30px;
+                }
+                p {
+                    color: rgb(18, 48, 38);
+                    opacity: 75%;
+                    font-size: 16px;
+                    line-height: 30px;
+                    letter-spacing: 1px;
+                    margin-right: 50px;
+                }
+            }
+            .livingWage-media {
+                width: 50%;
+                height: 500px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .livingWage {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+
+@media (max-width: 992px) {
+    .livingWage {
+        .container {
+            .row {
+                flex-direction: column;
+                .livingWage-content {
+                    flex: 1;
+                    order: 2;
+                    padding-left: 40px;
+                    width: 100%;
+                    padding-top: 50px;
+                }
+                .livingWage-media {
+                    flex: 1;
+                    order: 1;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .livingWage {
+        .container {
+            .row {
+                .livingWage-media {
+                    height: 300px;
+                }
+                .livingWage-content {
+                    padding-right: 0;
+                    padding-top: 50px;
+                    h2 {
+                        font-size: 35px;
+                    }
+                }
+            }
+        }
+    }
+}

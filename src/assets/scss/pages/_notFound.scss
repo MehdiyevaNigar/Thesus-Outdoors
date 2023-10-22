@@ -1,0 +1,32 @@
+.notFound {
+    width: 100%;
+    padding-top: 210px;
+    padding-bottom: 80px;
+    .container {
+        .row {
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            row-gap: 50px;
+            h3 {
+                color: rgb(18, 48, 38);
+                opacity: 75%;
+                font-weight: 400;
+                text-align: center;
+            }
+            h2 {
+                color: rgb(18, 48, 38);
+                font-size: 40px;
+                text-align: center;
+            }
+            .btn {
+                background-color: rgb(18, 48, 38);
+                border-radius: 5px;
+                color: #fff;
+                padding: 15px 25px;
+                text-align: center;
+                letter-spacing: 1px;
+            }
+        }
+    }
+}

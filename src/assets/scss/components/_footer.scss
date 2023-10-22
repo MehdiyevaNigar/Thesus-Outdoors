@@ -1,0 +1,203 @@
+.footer {
+    background-color: rgb(18, 48, 38);
+    max-width: 100%;
+    .container {
+        .row {
+            flex-direction: column;
+            .footer-top {
+                display: block;
+                gap: 120px;
+                padding-bottom: 50px;
+                padding-top: 50px;
+                border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+                display: flex;
+                .thesus {
+                    .logo {
+                        width: 100px;
+                        height: 50px;
+                        border: 1px solid rgba(255, 255, 255, 0.05);
+                        margin-bottom: 20px;
+                        img {
+                            width: 100%;
+                            height: 100%;
+                        }
+                    }
+                    h2 {
+                        color: #fff;
+                        font-size: 18px;
+                        padding-bottom: 40px;
+                    }
+                    ul {
+                        display: flex;
+                        gap: 20px;
+                        .footerLink {
+                            .media {
+                                font-size: 20px;
+                                color: #fff;
+                                &:hover {
+                                    transform: scale(1.1);
+                                }
+                            }
+                        }
+                    }
+                }
+                .ourShop {
+                    h2 {
+                        color: #fff;
+                        font-size: 18px;
+                        padding-bottom: 25px;
+                    }
+                    ul {
+                        li {
+                            padding-bottom: 20px;
+                            .shop-details {
+                                color: #fff;
+                                opacity: 75%;
+                                &:hover {
+                                    opacity: 1;
+                                    color: #fff;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                    }
+                }
+                .help {
+                    h2 {
+                        color: #fff;
+                        font-size: 18px;
+                        padding-bottom: 25px;
+                    }
+                    ul {
+                        li {
+                            padding-bottom: 20px;
+                            .shop-details {
+                                color: #fff;
+                                opacity: 75%;
+                                &:hover {
+                                    opacity: 1;
+                                    color: #fff;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                    }
+                }
+                .aboutUs {
+                    h2 {
+                        color: #fff;
+                        font-size: 18px;
+                        padding-bottom: 25px;
+                    }
+                    ul {
+                        li {
+                            padding-bottom: 20px;
+                            .shop-details {
+                                color: #fff;
+                                opacity: 75%;
+                                &:hover {
+                                    opacity: 1;
+                                    color: #fff;
+                                    text-decoration: underline;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .footer-bottom {
+                display: block;
+                padding-top: 30px;
+                padding-bottom: 30px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                .payment {
+                    .listPayment {
+                        padding-bottom: 20px;
+                        display: flex;
+                        gap: 5px;
+                        li {
+                            .card {
+                                width: 50px;
+                                font-size: 30px;
+                                color: #fff;
+                            }
+                        }
+                    }
+                }
+                .small {
+                    ul {
+                        display: flex;
+                        flex-wrap: wrap;
+                        gap: 20px;
+                        li {
+                            list-style-type: disc;
+                            color: #fff;
+                            opacity: 75%;
+                            font-size: 12px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .footer {
+        .container {
+            padding: 0 30px;
+            .row {
+                .footer-top {
+                    gap: 80px;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 992px) {
+    .footer {
+        .container {
+            padding: 0 40px;
+            .row {
+                .footer-top {
+                    gap: 40px;
+                }
+                .footer-bottom {
+                    .small {
+                        ul {
+                            gap: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .footer {
+        .container {
+            padding: 0 40px;
+            .row {
+                .footer-top {
+                    flex-direction: column;
+                    gap: 40px;
+                }
+                .footer-bottom {
+                    .listPayment {
+                        display: inline-flex;
+                        flex-wrap: wrap;
+                    }
+                    .small {
+                        ul {
+                            gap: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

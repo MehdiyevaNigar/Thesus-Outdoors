@@ -1,0 +1,251 @@
+{
+  "header": {
+    "free_shipping": "Pulsuz çatdırılma. Asan qaytarmalar. 4 taksitlə ödəyin."
+  },
+  "navbar": {
+    "new_in": "Yeni",
+    "bestsellers": "Bestsellerlər",
+    "weekend_boot": "Həftəsonu Çəkmə",
+    "terrus_clog": "Terrus Kloqu",
+    "shop_all": "Bütün məhsullar",
+    "values": "Dəyərlər"
+  },
+  "languages": {
+    "en": "İngiliscə",
+    "az": "Azərbaycanca"
+  },
+  "footer": {
+    "socially": "Sosial və ekoloji cəhətdən ",
+    "progressive": "mütərəqqi açıq ayaqqabı",
+    "our_shop": "Bizim mağazamız",
+    "all_products": "Bütün məhsullar",
+    "the_weekend_boot": "Həftəsonu botu",
+    "the_winter_weekend": "Qış həftəsonu botu Z",
+    "the_terrus": "Terrus",
+    "accessories": "Aksesuarlar",
+    "help": "Kömək",
+    "size_guide": "Ölçü bələdçisi",
+    "shipping_information": "Göndərmə məlumatı",
+    "refund_policy": "Geri qaytarma siyasəti",
+    "wear_and_care": "Geyim və qulluq FAQ",
+    "about_us": "Haqqımızda",
+    "contact_us": "Bizimlə əlaqə",
+    "shopify": "© 2023, Shopify tərəfindən dəstəklənən Thesus Outdoors ",
+    "privacy_policy": "Gizlilik siyasəti",
+    "terms_of_service": "Xidmət şərtləri",
+    "shipping_policy": "Göndərmə siyasəti",
+    "contact_information": "Əlaqə məlumatı"
+  },
+  "get-in-touch": {
+    "touch": "Əlaqə saxlayaq. İlk alışınıza 10 dollar endirim, yeni buraxılışlara erkən giriş və açıq hava məsləhətləri, səfərlər və təhsil alın.",
+    "offers": "Yeni kolleksiyalar və eksklüziv təkliflər haqqında ilk siz xəbərdar olun.",
+    "thanks": "Abunə olduğunuz üçün təşəkkür edirik!",
+    "placeholder": "E-poçtunuz",
+    "required": "E-poçt tələb olunur",
+    "message": "E-poçt ünvanı səhvdir",
+    "send": "Göndər"
+  },
+  "productTitles": {
+    "add_to_cart": "Karta əlavə et",
+    "sizeLabel": "Ölçü: {{selectedSize}}"
+  },
+  "home-sections": {
+    "home-hero": {
+      "hero_title": "Sizin və Planet üçün hazırlanmış açıq ayaqqabı",
+      "hero_button": "İNDİ AL"
+    },
+    "be-outside": {
+      "be_outside_title": "sənə kömək edir #ÇöldəOl",
+      "be_outside_subtitle": "Günəş",
+      "be_outside_subtitle2": "Yağış",
+      "be_outside_subtitle3": "Bütün havalar",
+      "be_outside_subtitle4": "Qar"
+    },
+    "lookbook": {
+      "lookbook_content_h2": "Bahar 2023 Baxış Kitabı",
+      "lookbook_content_p": "Bu mövsümdə #BeOutside, işə piyada getmək və ya parkda dincəlmək.",
+      "lookbook_content_button": "Baxış kitabçamızı araşdırın!"
+    },
+    "home-bestsellers": {
+      "home_bestsellers_title": "Thesus Bestsellerlər"
+    },
+    "footwear": {
+      "footwear_h2": "Thesus ayaqqabıları təbii və təkrar emal edilmiş materiallardan düşünülmüş şəkildə hazırlanmışdır",
+      "footwear_p": "Hər bir cüt 1-2 kq tullantıları su yollarımızdan və poliqonumuzdan çıxarır, atmosferdən 20 kq CO2 azaldır və ənənəvi dəri çəkmənizlə müqayisədə 10 litr suya qənaət edir.",
+      "footwear_button": "Daha ətraflı"
+    },
+    "accordion": {
+      "sections": {
+        "section1": {
+          "title": "Ölçünüzü tapın",
+          "content": "Mükəmməl uyğunluğunuzu tapmaq üçün ölçü bələdçimizə baxın!"
+        },
+        "section2": {
+          "title": "Pulsuz çatdırılma",
+          "content": "Kanada və ABŞ-da 100 dollardan yuxarı pulsuz çatdırılma."
+        },
+        "section3": {
+          "title": "Asan qaytarmalar",
+          "content": "Doğru ölçüsü tapmaq üçün lazım olan qədər asan qaytarır."
+        },
+        "section4": {
+          "title": "4-də ödəyin",
+          "content": "İndi alın, sonra ödəyin! 4 asan taksitlə ödəyin."
+        }
+      },
+      "try-them-out": {
+        "h2": "Onları sınayın!",
+        "p": "Doğru ölçüsü tapmaq üçün lazım olan qədər asan qaytarır. Sadəcə dəstək üçün komandamızla əlaqə saxlayın!"
+      }
+    },
+    "claire": {
+      "em": "Onların dabanında çox gözəl yastıq var ki, bu da onu uzun müddət geyinməyi rahat edir və bu ayaqqabılar mütləq ölçüyə çox uyğun gəlir."
+    },
+    "in-the-press": {
+      "h2": "Mətbuatda"
+    },
+    "join-us": {
+      "h2": "Instagramda Bizə Qoşulun"
+    }
+  },
+  "new-in": {
+    "h2": "Yeni Məhsullar",
+    "p": "məhsul"
+  },
+  "bestseller-page": {
+    "h2": "Bestsellerlər",
+    "p": "məhsul"
+  },
+  "weekend-boot": {
+    "h2": "Həftəsonu Çəkmə",
+    "p": "məhsul"
+  },
+  "terrus-clog": {
+    "h2": "Terrus Kloqu",
+    "p": "məhsul"
+  },
+  "shop-all": {
+    "h2": "Bütün məhsullar",
+    "p": "məhsul"
+  },
+  "values-sections": {
+    "values-hero": {
+      "h2": "İnanırıq ki, hamımız insanlar və planet vasitəsilə daha yaxşısını edə bilərik"
+    },
+    "who-we-are": {
+      "h2": "Biz kimik",
+      "p1": "Thesus açıq ayaqqabı və aksesuarların sosial və ekoloji cəhətdən mütərəqqi brendidir. Biz dünyanın hər yerindən sənaye autsayderlərindən ibarət kiçik bir qrupdan ibarətik.",
+      "p2": "Böyük təsəvvürlərimiz var, amma diqqətlə dinləyir, düşünür və hərəkət edirik. Biz inanırıq ki, müsbət dəyişikliklər hətta sadə ideyalara qanad verildikdə baş verir. İdeyalarımız əlaqə, öhdəlik və dizayn sadəliyi vasitəsilə həyata keçirilir."
+    },
+    "where-we-are": {
+      "h2": "Biz hardayıq",
+      "p": "Thesus HQ Kanadanın Toronto şəhərindədir. Yeni Kreditin Mississaugas, Haudenosaunee və Huron-Wendat First Nations, bizi qəbul edən bu torpağın orijinal qoruyucularını tanıyırıq."
+    },
+    "our-values": {
+      "h2": "Dəyərlərimiz",
+      "h31": "Əlaqə",
+      "p1": "Biz dünyanın ən yaxşı istehsalçıları, nəsil biliklərinə malik olanlar və həmçinin hesabatlılıq, şəffaflıq və davamlılıq dəyərlərimizi bölüşənlərlə əlaqə saxlayırıq. Bölgədə qalırıq, çörək kəsirik, gülür və hekayələr paylaşırıq, mədəniyyət və cəmiyyətlə tanış oluruq və ən əsası, İnsanlar və Planet üçün daha yaxşı ayaqqabı hazırlamaq üçün yaxından işləyirik.",
+      "h32": "İcma",
+      "p2": "Bizim öhdəliyimiz insanların və Planetin dəyər zəncirimizin hər mərhələsində nəzərə alınmasını təmin etmək ətrafında cəmlənir. Okeanın Çirklənməsi, İqlim Dəyişikliyi və İqtisadi Bərabərsizliklər kimi mühüm məsələlərin həllində həmişə ön sırada olduğumuza əmin olmaq üçün özümüzü Birləşmiş Millətlər Təşkilatının Dayanıqlı İnkişaf Məqsədlərinə uyğunlaşdırdıq.",
+      "h33": "Yaxşı Dizayn",
+      "p3": "Tullantıları azaltmaq üçün yaxşı dizayna inanırıq. Biz vacib olanlara diqqət yetiririk: material makiyajı, dizayn sadəliyi, davamlılıq, keyfiyyət, rahatlıq və funksional bütövlük. Biz sizin il boyu yolda və ya kənarda geyinmək istədiyiniz çox yönlü ayaqqabılar yaradırıq."
+    },
+    "transparency": {
+      "h2": "Şəffaflıq",
+      "p1": "Thesus-da biz inanırıq ki, dürüstlük və şəffaflıq İnsanlar və Planet üçün tərəqqinin təmin edilməsində ən vacib sürücülərdir. Biz hər bir məhsul səhifəsində bütün materiallar siyahısını ortaya qoyuruq, ona görə də cavabsız qalan suallar qalmayacaq.",
+      "p2": "Biz həmişə gördüyümüz işdə daha yaxşı olmağa çalışırıq. Bu o deməkdir ki, biz daim yeni və innovativ materiallar və tərəfdaşlar axtarışındayıq. Hər hansı bir təklifiniz və ya istiqamətiniz varsa, support@thesusoutdoors.com ünvanında bizimlə əlaqə saxlayın."
+    },
+    "diversity": {
+      "h2": "Müxtəliflik və İnklüzivlik",
+      "p1": "Thesus qürurla BIPOC qadına məxsusdur və qadınlara rəhbərlik edir və biz böyüdükcə bütün səviyyələrdə müxtəlifliyi təmin etməyə davam edəcəyik.",
+      "p2": "Biz hər bir komanda üzvü üçün ədalətli işə götürmə, böyümə və ödəniş üçün ən yaxşı təcrübələrə nail olmağa çalışırıq və ölçü, irq və cinsin/cinsəlliyin müxtəlifliyinin daxildə və xaricdə qeyd olunmasını təmin etməyə sadiqik."
+    },
+    "living-wage": {
+      "h2": "100% yaşayış minimumu",
+      "p": "Biz inanırıq ki, yaşayış minimumu icmalar olaraq həyat keyfiyyətimizin mərkəzindədir. Biz insanların daha xoşbəxt və sağlam həyat sürmələri üçün dəstəkləyici mühit təmin etməyimizi təmin etmək istəyirik. Thesus-da mövcud heyətimizin və birbaşa istehsalçılarımızın heyətinin 100%-nə yaşayış minimumu ödənilir."
+    },
+    "production": {
+      "h2": "İstehsal",
+      "p": "Thesus-da biz layiqli həyat səviyyəsini dəstəkləmək üçün dünyada əhatəli sistemlərə və yaxşı idarəetməyə malik regionlarda işləməyi öhdəliyimizə götürürük. Biz aylarla tərəfdaşlıq etmək, regionlarda yaşamaq və onların komandaları ilə dostluq əlaqələri qurmaq üçün doğru insanları tapmağa sərf edirik. Fabriklərlə tərəfdaşlıq qurmaq üçün fəaliyyət göstərdiyimiz bölgələrə köçürük. Təsisçilərimiz sahibləri və işçiləri tanıyır və onların hazırkı davamlılıq standartlarını və gələcək ambisiyalarını anlamaq üçün vaxt ayırır ki, biz birlikdə planetar sərhədlər daxilində fəaliyyət göstərmək, cəmiyyətin rifahını və planeti mərkəzləşdirmək üçün necə işləyə bilərik. Bu proses şəxsi prosesdir, yoxlama prosesini sertifikatlardan çox kənara çıxarır və bizim dəyərləri təbiətə əsaslanan həllər üzərində fokuslanaraq planetar sərhədlər daxilində Thesusun fəaliyyət məqsədlərinə artıq uyğun gələn təchizatçılarla əməkdaşlıq etməyimizi təmin etməyə kömək edir. 2022-ci ilin iyul ayından etibarən biz istehsalımızın 100%-ni Portuqaliyaya köçürdük və İİİ 0,864-ə çatmaqla İİİ dərəcəsi hədəfimizi 3% üstələdik."
+    },
+    "climate-positive": {
+      "h2": "İqlim Müsbət",
+      "p": "İqlim dəyişikliyinə gəldikdə biz neytral deyilik. Biz bütün fəaliyyətlərimizdə regenerativ olmağı hədəfləyirik, yəni bütün fəaliyyətlərimizdə İqlim Müsbət olmaq istəyirik."
+    },
+    "diverting": {
+      "h2": "Tullantıların yönləndirilməsi",
+      "p": "Thesus-da biz dünyaya müsbət ekoloji təsir göstərən ayaqqabılar istehsal etməyə sadiqik. Biz materialları araşdırmaq üçün vaxt ayırmaqla bunu edirik; minilliklər boyu istifadə olunan təbii materiallar, eləcə də ətrafımızdakı dünyaya müsbət təsir göstərən yeni və innovativ materiallar."
+    }
+  },
+  "login-section": {
+    "logout": {
+      "h2": "Hesab detalları",
+      "button": "Çıxış"
+    },
+    "login": {
+      "h2": "Daxil ol",
+      "email_placeholder": "E-poçt",
+      "email_error": "E-poçt tələb olunur və etibarlı olmalıdır",
+      "pw_placeholder": "Parol",
+      "pw_error": "Parol tələb olunur və ən azı bir kiçik hərf və rəqəm olmalıdır",
+      "button": "Daxil ol"
+    }
+  },
+  "product-details": {
+    "h6": "Çatdırılma kassada hesablanır.",
+    "h5": "Ölçü",
+    "option": "Ölçü seçin",
+    "shop_btn": "Al",
+    "p": "Bulud kimi rahatlığı və suya davamlı müdafiəni birləşdirən Anyday Yağış Çəkmələri sizi bütün gün quru saxlayır. Portuqaliyada təkrar emal edilmiş neylondan və təkrar emal edilmiş rezin altlıqdan diqqətlə əl istehsalıdır, beləliklə, istənilən gün inamla addımlaya bilərsiniz."
+  },
+  "cart": {
+    "empty-cart": {
+      "h1": "Sizin kartınız boşdur",
+      "btn": "Alış-verişə davam edin"
+    },
+    "product-cart": {
+      "h1": "Səbətiniz",
+      "btn": "Alış-verişə davam edin",
+      "p": "Məhsul",
+      "total": "Ümumi",
+      "checkout": "Yoxla"
+    }
+  },
+  "checkout-page": {
+    "form": {
+      "h1": "Yoxla",
+      "h31": "Əlaqə",
+      "email": "E-poçt",
+      "email_placeholder": "E-poçtunuz",
+      "required1": "E-poçt tələb olunur",
+      "message1": "E-poçt ünvanı səhvdir",
+      "h32": "Çatdırılma ünvanı",
+      "fname": "Ad",
+      "required2": "Ad tələb olunur",
+      "message2": "Ad ən azı 3 simvoldan ibarət olmalıdır",
+      "message3": "Ad ən çox 15 simvoldan ibarət olmalıdır",
+      "lname": "Soyad",
+      "required3": "Soyad tələb olunur",
+      "message4": "Soyad ən azı 3 simvoldan ibarət olmalıdır",
+      "message5": "Soyad ən çox 15 simvoldan ibarət olmalıdır",
+      "address": "Ünvan",
+      "required4": "Ünvan tələb olunur",
+      "message6": "Ünvan ən azı 3 simvoldan ibarət olmalıdır",
+      "message7": "Ünvan ən çox 20 simvoldan ibarət olmalıdır",
+      "card_num": "Kartı nömrəsi",
+      "required5": "Kart nömrəsi tələb olunur",
+      "message8": "Kartın nömrəsi 16 simvoldan ibarət olmalıdır",
+      "message9": "Kartın nömrəsi 16 simvoldan ibarət olmalıdır",
+      "exp_date": "İstifadə müddəti",
+      "date_placeholder": "İstifadə müddəti (MM / YY)",
+      "required6": "İstifadə müddəti tələb olunur",
+      "message10": "Yanlış son istifadə tarixi formatı (MM / YY)",
+      "btn": "İndi ödə",
+      "sweetalert_title": "Forma uğurla təqdim edildi! Bizi seçdiyiniz üçün təşəkkür edirik!"
+    }
+  },
+  "not-found": {
+    "h2": "Səhifə tapılmadı",
+    "btn": "Alış-verişə davam edin"
+  }
+}

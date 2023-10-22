@@ -1,0 +1,251 @@
+{
+  "header": {
+    "free_shipping": "Free shipping. Easy returns. Pay in 4 installments."
+  },
+  "navbar": {
+    "new_in": "New In",
+    "bestsellers": "Bestsellers",
+    "weekend_boot": "Weekend Boot",
+    "terrus_clog": "Terrus Clog",
+    "shop_all": "Shop All",
+    "values": "Values"
+  },
+  "languages": {
+    "en": "English",
+    "az": "Azerbaijani"
+  },
+  "footer": {
+    "socially": "Socially and environmentally ",
+    "progressive": "progressive outdoor footwear",
+    "our_shop": "Our Shop",
+    "all_products": "All Products",
+    "the_weekend_boot": "The Weekend Boot",
+    "the_winter_weekend": "The Winter Weekend Boot Z",
+    "the_terrus": "The Terrus",
+    "accessories": "Accessories",
+    "help": "Help",
+    "size_guide": "Size Guide",
+    "shipping_information": "Shipping Information",
+    "refund_policy": "Refund Policy",
+    "wear_and_care": "Wear and Care FAQ",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "shopify": "© 2023, Thesus Outdoors Powered by Shopify",
+    "privacy_policy": "Privacy policy",
+    "terms_of_service": "Terms of service",
+    "shipping_policy": "Shipping policy",
+    "contact_information": "Contact information"
+  },
+  "get-in-touch": {
+    "touch": "Let’s stay in touch. Get $10 off your first purchase, early access to new releases and outdoor tips, trips and education.",
+    "offers": "Be the first to know about new collections and exclusive offers.",
+    "thanks": "Thanks for subscribing!",
+    "placeholder": "Your e-mail",
+    "required": "Email is required",
+    "message": "Invalid email address",
+    "send": "Send"
+  },
+  "productTitles": {
+    "add_to_cart": "Add to cart",
+    "sizeLabel": "Size: {{selectedSize}}"
+  },
+  "home-sections": {
+    "home-hero": {
+      "hero_title": "Outdoor Footwear Made for You and the Planet",
+      "hero_button": "SHOP NOW"
+    },
+    "be-outside": {
+      "be_outside_title": "helps you #BeOutside",
+      "be_outside_subtitle": "Sun",
+      "be_outside_subtitle2": "Rain",
+      "be_outside_subtitle3": "All Weather",
+      "be_outside_subtitle4": "Snow"
+    },
+    "lookbook": {
+      "lookbook_content_h2": "Spring 2023 Lookbook",
+      "lookbook_content_p": "#BeOutside this season, walking to work or lounging in a park.",
+      "lookbook_content_button": "Explore our lookbook!"
+    },
+    "home-bestsellers": {
+      "home_bestsellers_title": "Thesus Bestsellers"
+    },
+    "footwear": {
+      "footwear_h2": "Thesus footwear is thoughtfully designed from natural and recycled materials",
+      "footwear_p": "Each pair diverts 1-2 kg of waste from our waterways and landfill, reduces 20kg of CO2 from the atmosphere, and conserves 10L of water when compared to your traditional leather boot.",
+      "footwear_button": "Learn more"
+    },
+    "accordion": {
+      "sections": {
+        "section1": {
+          "title": "Find your size",
+          "content": "Check out our size guide to find your perfect match!"
+        },
+        "section2": {
+          "title": "Free shipping",
+          "content": "Free shipping over $100 in Canada and the US."
+        },
+        "section3": {
+          "title": "Easy returns",
+          "content": "Easy returns as many times as you need to find the right size."
+        },
+        "section4": {
+          "title": "Pay in 4",
+          "content": "Buy now, pay later! Pay in 4 easy instalments."
+        }
+      },
+      "try-them-out": {
+        "h2": "Try Them Out!",
+        "p": "Easy returns as many times as you need to find the right size. Just contact our team for support!"
+      }
+    },
+    "claire": {
+      "em": "They have a very nice padding in the sole which makes it comfortable to wear for long periods of time and these shoes definitely fit very true to size."
+    },
+    "in-the-press": {
+      "h2": "In the Press"
+    },
+    "join-us": {
+      "h2": "Join Us on Instagram"
+    }
+  },
+  "new-in": {
+    "h2": "New Products",
+    "p": "products"
+  },
+  "bestseller-page": {
+    "h2": "Bestsellers",
+    "p": "products"
+  },
+  "weekend-boot": {
+    "h2": "Weekend Boot",
+    "p": "products"
+  },
+  "terrus-clog": {
+    "h2": "Terrus Clog",
+    "p": "products"
+  },
+  "shop-all": {
+    "h2": "Shop All",
+    "p": "products"
+  },
+  "values-sections": {
+    "values-hero": {
+      "h2": "We believe that we can all do better by people and the planet"
+    },
+    "who-we-are": {
+      "h2": "Who We Are",
+      "p1": "Thesus is a socially and environmentally progressive brand of outdoor footwear and accessories. We are made up of a small ragtag band of industry outsiders from around the world.",
+      "p2": "We have big imaginations but we listen, think and act carefully. We believe that positive change happens when even simple ideas are given wings. Our ideas are brought to life through connection, commitment, and design simplicity."
+    },
+    "where-we-are": {
+      "h2": "Where We Are",
+      "p": "Thesus HQ is in Toronto, Canada. We acknowledge the Mississaugas of New Credit, the Haudenosaunee and Huron-Wendat First Nations, the original keepers of this land that hosts us."
+    },
+    "our-values": {
+      "h2": "Our Values",
+      "h31": "Connection",
+      "p1": "We connect with the best producers in the world, those with generational knowledge and those who also share our values of accountability, transparency and sustainability. We stay in the region, we break bread, we laugh and share stories, we get to know the culture and community, and most importantly, we work closely to make better shoes, for People and the Planet.",
+      "h32": "Community",
+      "p2": "Our commitment centers around ensuring that the People and the Planet are considered at every stage of our value chain. We have aligned ourselves with the United Nations Sustainable Development Goals to make sure we are always at the forefront of addressing important issues like Ocean Pollution, Climate Change and Economic Inequalities.",
+      "h33": "Good Design",
+      "p3": "We believe in good design as a way of reducing waste. We focus on what matters: material make-up, design simplicity, sustainability, quality, comfort and functional integrity. We create versatile shoes that you actually want to wear, on-or-off the trail year round."
+    },
+    "transparency": {
+      "h2": "Transparency",
+      "p1": "At Thesus we believe that honesty and transparency are the most important drivers in ensuring progress is made for People and the Planet. We reveal our entire materials list on each product page, so there are no questions left unanswered.",
+      "p2": "We are always looking to be better at what we do. That means, we are constantly on the lookout for new and innovative materials and partners. If you have any suggestions or direction, please reach out to us at support@thesusoutdoors.com."
+    },
+    "diversity": {
+      "h2": "Diversity & Inclusion",
+      "p1": "Thesus is proudly BIPOC woman-owned, and women-led, and we will continue to ensure diversity in all ranks as we grow.",
+      "p2": " We are dedicated to achieving the best practices for equitable hiring, growth, and pay for every team member and committed to ensuring that diversity of size, race and gender/sexuality is being celebrated internally and externally."
+    },
+    "living-wage": {
+      "h2": "100% Living Wage",
+      "p": "We believe that living wages are at the center of our quality of life as communities. We want to ensure that we provide a supportive environment so that people lead happier and healthier lives. At Thesus, 100% of our current staff and staff of our direct manufacturers, are paid a living wage."
+    },
+    "production": {
+      "h2": "Production",
+      "p": "At Thesus we commit to working in regions in the world that have overarching systems and good governance in place to support a decent standard of living. We spend months finding the right people to partner with, live in the regions, and build friendships with their teams. To form partnerships with factories, we move to the regions where we operate. Our founders get to know the owners and employees and take the time to understand their current sustainability standards and future ambitions for how we can together work toward operating within planetary boundaries, centering community wellbeing and the planet. This process is a personal one, that takes the vetting process well beyond certifications and helps to ensure we are partnering with suppliers whose values are already in alignment with Thesus’ goals of operating within planetary boundaries with a focus on nature based solutions. As of July 2022 we have moved 100% of our production to Portugal, beating our goal of an HDI rank by 3% achieving an HDI 0.864."
+    },
+    "climate-positive": {
+      "h2": "Climate Positive",
+      "p": "We are not neutral when it comes to climate change. We are aiming to be regenerative in all of our activities, meaning, we want to be Climate Positive in all of our activities."
+    },
+    "diverting": {
+      "h2": "Diverting Waste",
+      "p": "At Thesus we are committed to making footwear that has a positive environmental impact on the world. We do this by taking the time to research materials; natural materials that have been used for millennia, as well as new and innovative materials that have a net positive impact on the world around us."
+    }
+  },
+  "login-section": {
+    "logout": {
+      "h2": "Account details",
+      "button": "Log Out"
+    },
+    "login": {
+      "h2": "Login",
+      "email_placeholder": "Email",
+      "email_error": "Email is required and should be valid",
+      "pw_placeholder": "Password",
+      "pw_error": "Password is required and should have at least one lowercase letter and a number",
+      "button": "Log in"
+    }
+  },
+  "product-details": {
+    "h6": "Shipping calculated at checkout.",
+    "h5": "Size",
+    "option": "Select Size",
+    "shop_btn": "Buy",
+    "p": "Combining cloud-like comfort and waterproof protection, the Anyday Rain Boots keep you dry all day long. Carefully hand-made in Portugal from recycled nylon and a recycled rubber sole, so you can step confidently through any day."
+  },
+  "cart": {
+    "empty-cart": {
+      "h1": "Your cart is empty",
+      "btn": "Continue shopping"
+    },
+    "product-cart": {
+      "h1": "Your cart",
+      "btn": "Continue shopping",
+      "p": "Product",
+      "total": "Total",
+      "checkout": "Check out"
+    }
+  },
+  "checkout-page": {
+    "form": {
+      "h1": "Checkout",
+      "h31": "Contact",
+      "email": "Email",
+      "email_placeholder": "Your email",
+      "required1": "Email is required",
+      "message1": "Invalid email address",
+      "h32": "Shipping Address",
+      "fname": "First Name",
+      "required2": "First name is required",
+      "message2": "First name must be at least 3 characters",
+      "message3": "First name must be at most 15 characters",
+      "lname": "Last Name",
+      "required3": "Last name is required",
+      "message4": "Last name must be at least 3 characters",
+      "message5": "Last name must be at most 15 characters",
+      "address": "Address",
+      "required4": "Address is required",
+      "message6": "Address must be at least 3 characters",
+      "message7": "Address must be at most 20 characters",
+      "card_num": "Card number",
+      "required5": "Card number is required",
+      "message8": "Card number must be 16 characters",
+      "message9": "Card number must be 16 characters",
+      "exp_date": "Expiration date",
+      "date_placeholder": "Expiration date (MM / YY)",
+      "required6": "Expiration date is required",
+      "message10": "Invalid expiration date format (MM / YY)",
+      "btn": "Pay now",
+      "sweetalert_title": "Form is successfully submitted! Thanks for choosing us!"
+    }
+  },
+  "not-found": {
+    "h2": "Page not found",
+    "btn": "Continue shopping"
+  }
+}

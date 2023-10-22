@@ -1,0 +1,86 @@
+.climatePositive {
+    width: 100%;
+    padding-bottom: 80px;
+    .container {
+        .row {
+            .climatePositive-content {
+                padding-right: 80px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                width: 50%;
+                h2 {
+                    font-size: 40px;
+                    color: rgb(18, 48, 38);
+                    padding-bottom: 30px;
+                }
+                p {
+                    color: rgb(18, 48, 38);
+                    opacity: 75%;
+                    font-size: 16px;
+                    line-height: 30px;
+                    letter-spacing: 1px;
+                    margin-right: 50px;
+                }
+            }
+            .climatePositive-media {
+                width: 50%;
+                height: 500px;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .climatePositive {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+
+@media (max-width: 992px) {
+    .climatePositive {
+        .container {
+            .row {
+                flex-direction: column;
+                .climatePositive-content {
+                    flex: 1;
+                    order: 2;
+                    padding-left: 40px;
+                    width: 100%;
+                    padding-top: 50px;
+                }
+                .climatePositive-media {
+                    flex: 1;
+                    order: 1;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .climatePositive {
+        .container {
+            .row {
+                .climatePositive-media {
+                    height: 300px;
+                }
+                .climatePositive-content {
+                    padding-right: 0;
+                    padding-top: 50px;
+                    h2 {
+                        font-size: 30px;
+                    }
+                }
+            }
+        }
+    }
+}

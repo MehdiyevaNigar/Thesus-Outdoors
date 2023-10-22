@@ -1,0 +1,53 @@
+.joinUs {
+    padding-bottom: 80px;
+    h2 {
+        text-align: center;
+        color: rgb(18, 48, 38);
+        font-size: 40px;
+        padding-bottom: 5px;
+        a {
+            color: rgb(18, 48, 38);
+        }
+    }
+    .container {
+        .row {
+            padding-top: 40px;
+            width: 100%;
+            gap: 8px;
+            .joinUs-cards {
+                width: 100%;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1200px) {
+    .joinUs {
+        .container {
+            padding: 0 30px;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .joinUs {
+        .container {
+            .row {
+                flex-wrap: wrap;
+            }
+        }
+    }
+}
+
+@media (max-width: 465px) {
+    .joinUs {
+        h2 {
+            font-size: 30px;
+        }
+    }
+}
